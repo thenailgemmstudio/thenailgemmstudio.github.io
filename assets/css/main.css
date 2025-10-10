@@ -2304,23 +2304,17 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #fff;
-			border-color: rgba(255, 255, 255, 0);
-			color: #f08c89;
+			background: #ffffff;
+			border-color: #26343E;
+			color: #26343E;
 			font-size: 1.25em;
 		}
 
 			#hero .button:hover {
-				border-color: rgba(255, 255, 255, 0.75);
+				border-color: #E0AE82;
 				background-color: rgba(255, 255, 255, 0.15);
-				color: #fff;
+				color: #E0AE82;
 			}
-
-		#hero a {
-			color: #fff;
-			border-color: #fff;
-			border-color: rgba(255, 255, 255, 0.5);
-		}
 
 			#hero a:hover {
 				border-color: rgba(255, 255, 255, 0);
